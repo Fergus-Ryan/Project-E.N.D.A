@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Project E.N.D.A</title>
+</head>
+<body>
+<script type="text/javascript">
+    window.location.href = "login.shtml";
+</script>
+</body>
+</html>
